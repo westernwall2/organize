@@ -7,6 +7,6 @@
     <title>Organize</title>
 </head>
 <body>
-    
+    <?php echo "Olá Mundo"; ?>
 </body>
 </html>
